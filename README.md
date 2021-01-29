@@ -1,4 +1,5 @@
 # merged_template
 
-* template index 
-- Template/layout_1/LTR/material/full/index2.html
+- template index
+
+* Template/layout_1/LTR/material/full/index.html
