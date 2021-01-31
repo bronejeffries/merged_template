@@ -2,4 +2,4 @@
 
 - template index
 
-* Template/layout_1/LTR/material/full/index.html
+* HTML/dashboard2.html
